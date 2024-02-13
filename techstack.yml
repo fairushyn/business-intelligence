@@ -1,0 +1,20 @@
+repo_name: fairushyn/business-intelligence
+report_id: ff91fb8868312cec5691b97fd13d8176
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-13T18:08:21+00:00'
+requested_by: fairushyn
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fairushyn/business-intelligence
+  detection_source: Repo Metadata
